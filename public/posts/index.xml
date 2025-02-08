@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Words &amp; Stuff</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Words &amp; Stuff</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Year Resolutions</title>
+      <link>http://localhost:1313/posts/resolutions/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/resolutions/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve never been much of a new year resolution person. I conceptually disagree with the New Year, New You philosophy. Drastic changes are never easily maintained; and even less so when announced publicly according to the science. However, goals that expand upon your existing lifestyle are far more reasonable. This combined with my blog being unknown (and as of yet only local) meaning this is the most minimal of announcements.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Losing Trust Remote</title>
+      <link>http://localhost:1313/posts/trust_remote/</link>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/trust_remote/</guid>
+      <description>&lt;p&gt;Currently, like a large portion of data scientists, I am working on a Generative AI (read: NLP) product. This has drawn me into the eco-system of HuggingFace and their excellent python packages. However, regardless of the high-quality documentation, things may still be unclear. This was the case with the &lt;code&gt;trust_remote_code&lt;/code&gt; flag, which defaults to &lt;code&gt;False&lt;/code&gt;. The docstring for this flag is&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;trust_remote_code&lt;/strong&gt; (&lt;em&gt;bool&lt;/em&gt;_,_ &lt;em&gt;optional&lt;/em&gt;) – Whether or not to allow for custom models defined on the Hub in their own modeling files. This option should only be set to True for repositories you trust and in which you have read the code, as it will execute code present on the Hub on your local machine.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,7 @@
+baseURL = 'https://blog.alistair-martin.com/'
+languageCode = 'en-us'
+title = 'Words & Stuff'
+theme = 'ananke'
+
+[params]
+site_logo = "logo.webp"
