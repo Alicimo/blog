@@ -1,6 +1,6 @@
 +++
 title = 'Git Configuration of Git Developers'
-date = 2025-3-04
+date = 2025-03-04
 draft = false
 +++
 
