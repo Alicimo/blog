@@ -3,5 +3,5 @@ languageCode = 'en-us'
 title = 'Words & Stuff'
 theme = 'ananke'
 
-[params]
-site_logo = "logo.webp"
+# [params]
+# site_logo = "logo.webp"
